@@ -4,7 +4,7 @@ untuk pengerjaan kali ini adalah project data base api dan android studio tetapi
 
 ![alt text]https://github.com/SenaErlangga/UAS_PM/blob/main/php.png(?raw=true)
 
-![alt texthttps://github.com/SenaErlangga/UAS_PM/blob/main/DB.png](?raw=true)
+![alt text]https://github.com/SenaErlangga/UAS_PM/blob/main/DB.png(?raw=true)
 
 ![alt text]https://github.com/SenaErlangga/UAS_PM/blob/main/android%20studio.png(?raw=true)
 
